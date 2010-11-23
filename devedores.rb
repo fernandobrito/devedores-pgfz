@@ -36,7 +36,11 @@ end
 
 puts "=> Passamos do CAPTCHA!" if DEBUG
 
-b = go_to_page(b, page_to_go)
+# If we have to go somewhere, lets go!
+if page_to_go != 1
+  b = go_to_page(b, page_to_go)
+end
+
 current_page = get_current_page(b)
 total_pages = get_total_pages(b)
 
