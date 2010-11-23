@@ -16,7 +16,8 @@ Esses dados estão disponibilizados em arquivos .csv (na pasta <tt>completo</tt>
 
 === Motivação
 
-(falar sobre a lista THackDay e sobre a thread de um cara que pediu os dados)
+(falar sobre a lista THackDay  e sobre a thread de um cara que pediu os dados)
+(também falar sobre como dados públicos deveriam ser melhor disponibilizados)
 
 == Desenvolvedores
 
