@@ -1,6 +1,6 @@
 busca vim por pag vazia, linha vazia e prox pagina: /pag: [0-9]\{1,4}\n*\n# 
 
-  r: 23:30 22/10 . tinha 106.897
+- r: 23:30 22/10 . tinha 106.897
   s: 21:17 22/10 . tinha 111.279
 - t: 21:17 22/10 . tinha 49.471
 - u: 12:05 19/10 . tinha 9.857
