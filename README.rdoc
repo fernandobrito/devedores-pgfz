@@ -14,12 +14,12 @@ Projeto feito em Ruby para puxar os dados públicos do site da Fazenda Nacional,
 
 Esses dados estão disponibilizados em arquivos .csv por letra (na pasta <tt>csv</tt>) e em breve teremos um único arquivo com todas as letras.
 
-Tambéme está previsto a criação de um webservice para consulta destas informações.
+Também está previsto a criação de um webservice para consulta destas informações.
 
 === Motivação
 
-(falar sobre a lista THackDay  e sobre a thread de um cara que pediu os dados)
-(também falar sobre como dados públicos deveriam ser melhor disponibilizados)
+(falar sobre a lista THackDay  e sobre a thread de um cara que pediu os dados - 
+também falar sobre como dados públicos deveriam ser melhor disponibilizados)
 
 == Desenvolvedores
 
