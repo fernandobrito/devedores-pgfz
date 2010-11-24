@@ -46,7 +46,7 @@ puts "=> Estamos na página #{current_page} de #{total_pages}!" if DEBUG
 while(!@stop) do
   current_page = get_current_page(b)
 
-  puts "# pag: #{current_page} of #{total_pages} (#{sprintf("%.2f", current_page.to_f / total_pages * 100)}%)"
+  puts "# pag: #{current_page} of #{total_pages} (#{sprintf("%.2f", current_page.to_f / total_pages * 100)}%) (#{letter_to_go})"
 
   if save == "true"
 	  File.open(letter_to_go.downcase + ".csv", "a") do |f|
