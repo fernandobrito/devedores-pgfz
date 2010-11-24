@@ -35,7 +35,7 @@ end
 
 def go_to_page(b, page)
   b.execute_script("javascript:Event.fire(document.getElementById('listaDevedoresForm:j_id53_table').rows[0].cells[11], 'rich:datascroller:onscroll', {'page': '" + page.to_s + "'});")
-  sleep(2)
+  sleep(3)
   b.refresh
 
   return b
