@@ -2,6 +2,8 @@ busca vim por pag vazia, linha vazia e prox pagina: /pag: [0-9]\{1,4}\n*\n#
 
 Arquivo para controlar a data que cada letra foi scrappeada do site da Receita.
 
+  i: 23:25 23/10 . tinha 58.347
+  j:
 - k: 19:54 23/10 . tinha 13.369
 - l: 20:47 23/10 . tinha 89.224
   m: 
