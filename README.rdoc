@@ -12,10 +12,6 @@ Por favor, não use esse projeto para julgar o meu conhecimento com programaçã
 
 Projeto feito em Ruby para puxar os dados públicos do site da Fazenda Nacional, mais especificamente a {lista}[http://www2.pgfn.fazenda.gov.br/ecac/contribuinte/devedores/listaDevedores.jsf] de devedores que possuem débito com a mesma. 
 
-Esses dados estão disponibilizados em arquivos .csv por letra (na pasta <tt>csv</tt>) e em breve teremos um único arquivo com todas as letras.
-
-Também está previsto a criação de um webservice para consulta destas informações.
-
 === Motivação
 
 (falar sobre a lista THackDay  e sobre a thread de um cara que pediu os dados - 
