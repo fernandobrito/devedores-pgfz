@@ -6,7 +6,7 @@ O código desse projeto é de uso pessoal e foi feito voluntariamente durante v�
 
 Ou seja: o código está incompleto, cheio de bugs, não está comentado e provavelmente só eu conseguirei usar no meu ambiente :P
 
-Por favor, não use esse projeto para julgar o meu conhecimento com programação.
+Por favor, não use esse projeto para julgar o meu conhecimento com programação. Ele foi feito em 2011 :)
 
 === Descrição
 
@@ -22,6 +22,8 @@ Também está previsto a criação de um webservice para consulta destas informa
 também falar sobre como dados públicos deveriam ser melhor disponibilizados)
 
 == Desenvolvedores
+
+Fernando Brito
 
 === Ferramentas e Versões
 
