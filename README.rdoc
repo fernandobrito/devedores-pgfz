@@ -2,4 +2,36 @@
 
 === Atenção
 
-Movido para: https://github.com/thacker/devedores-pgfz
+O código desse projeto é de uso pessoal e foi feito voluntariamente durante várias madrugadas com o único objetivo de chegar ao resultado esperado.
+
+Ou seja: o código está incompleto, cheio de bugs, não está comentado e provavelmente só eu conseguirei usar no meu ambiente :P
+
+Por favor, não use esse projeto para julgar o meu conhecimento com programação.
+
+=== Descrição
+
+Projeto feito em Ruby para puxar os dados públicos do site da Fazenda Nacional, mais especificamente a {lista}[http://www2.pgfn.fazenda.gov.br/ecac/contribuinte/devedores/listaDevedores.jsf] de devedores que possuem débito com a mesma. 
+
+Esses dados estão disponibilizados em arquivos .csv por letra (na pasta <tt>csv</tt>) e em breve teremos um único arquivo com todas as letras.
+
+Também está previsto a criação de um webservice para consulta destas informações.
+
+=== Motivação
+
+(falar sobre a lista THackDay  e sobre a thread de um cara que pediu os dados - 
+também falar sobre como dados públicos deveriam ser melhor disponibilizados)
+
+== Desenvolvedores
+
+=== Ferramentas e Versões
+
+Desenvolvido com o JRuby (versão 1.5.3).
+Possui dependencia com a gem "celerity" e com o pacote "jp2a"
+
+=== Instalação
+
+  git clone git://github.com/fernandobrito/devedores-pgfn.git
+
+=== Uso
+
+(mostrar parâmetros e workflow)
